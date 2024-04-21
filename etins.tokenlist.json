@@ -14,7 +14,7 @@
             "name": "Wrapped ETINS",
             "symbol": "WETINS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ETINSDev/token-lists/main/assets/etins-black.svg"
+            "logoURI": "https://raw.githubusercontent.com/ETINSDev/token-lists/main/assets/etins-black.png"
         },
         {
             "chainId": 1617,
